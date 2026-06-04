@@ -1,0 +1,17 @@
+{
+    "accuracy": 0.9518072289156626,
+    "precision": 0.9567787364236318,
+    "recall": 0.9518072289156626,
+    "f1_score": 0.9521046123195654,
+    "class_names": [
+        "Ajwa",
+        "Galaxy",
+        "Medjool",
+        "Meneifi",
+        "Nabtat Ali",
+        "Rutab",
+        "Shaishe",
+        "Sokari",
+        "Sugaey"
+    ]
+}
